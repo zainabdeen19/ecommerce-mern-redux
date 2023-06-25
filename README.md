@@ -12,4 +12,4 @@ Powerful MERN Stack Ecommerce Project using React, Redux, Node.js, Express, Mong
 -   Payment Integration using Stripe
 -   Add filters, search and pagination
 -   Complete ratings & reviews system
--   Complete Cart & Checkout process
+-   Complete Cart & Checkout process# Random change 25691
